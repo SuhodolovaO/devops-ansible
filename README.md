@@ -15,3 +15,6 @@ Playbook содержит 3 плея: установка Java, установк�
 - elastic_host: url хоста Elasticsearch
 - kibana_version: версия Kibana
 - kibana_home: папка для установки Kibana на целевом хосте
+
+Ссылка на вывод линтера  
+https://github.com/SuhodolovaO/devops-ansible/blob/8.2/lint.png
